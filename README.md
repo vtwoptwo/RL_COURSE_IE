@@ -114,7 +114,7 @@ Based on the book:
     ```
 3. Make sure you select you select the virtual environment you created as the interpreter in 
   VS CODE
-  ```
+  ```sh
   -> CRTL + SHIFT + P 
   -> >Python: Select Interpreter
   -> Add New Interpreter
