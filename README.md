@@ -18,7 +18,7 @@
     <img src="./img/sb.jpg" alt="Logo" width="180" height="240" >
   </a>
 
-<h3 align="center">C++</h3>
+<h3 align="center">Reinforcement Learning</h3>
 
 
   <p align="center">
