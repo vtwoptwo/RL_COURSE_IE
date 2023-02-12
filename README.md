@@ -22,7 +22,7 @@
 
 
   <p align="center">
-    A Repo to collect notes, exercises and best practices around programming in CPP. 
+    A Repo to collect notes, exercises and best practices around programming RL Algorithms. 
   
 </div>
 
