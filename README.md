@@ -107,11 +107,20 @@ Based on the book:
    ```sh
    git clone https://github.com/vtwoptwo/RL_COURSE_IE.git
    ```
-2. Create a virtual environment
+2. Create a virtual environment and install the requirements
     ```python
+    python -m venv .venv 
     pip install -r requirements.txt
     ```
-3. See any notebooks which peak your interest
+3. Make sure you select you select the virtual environment you created as the interpreter in 
+  VS CODE
+  ```
+  -> CRTL + SHIFT + P 
+  -> >Python: Select Interpreter
+  -> Add New Interpreter
+  -> Paste this link: .venv/bin/Python3.10
+  ```
+4. See any notebooks which peak your interest
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
